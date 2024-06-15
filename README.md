@@ -8,7 +8,6 @@ The operator **Dokkaebi** of the Competitive FPS **Rainbow Six Siege (R6)**, is 
 
 - **R6 "Logic Bomb" hacking tool preview**:
 
-![Dokkaebi Hacking Cameras Preview](Dokkaebi_HACKS_CAMERAS.gif)
 ![Dokkaebi Hacking Phones Preview](Dokkaebi_HACKS_CAMERAS.gif)
 
 - **Passport moods preview**:
